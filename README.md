@@ -2,7 +2,8 @@
 # 1. State Pattern
 State pattern is a behavioural pattern, where an object changes its behavoiur when changes its internal state. Every state is implemented separately.
 
-<img width="648" height="291" alt="image" src="https://github.com/user-attachments/assets/fa85aaba-7892-4c44-84c3-06d89b2cfd15" />
+<img width="645" height="280" alt="image" src="https://github.com/user-attachments/assets/f2db368e-c0d1-4c37-8926-f6e35fc1ec0d" />
+
 
 
 # 2. Template Method
