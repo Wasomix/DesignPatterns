@@ -6,3 +6,5 @@ State pattern is a behavioural pattern, where an object changes its behavoiur wh
 
 # 2. Template Method
 Template method provides an skeleton to implement an algorithm with a method (template method) where are listed all algorithm steps as abstract methods that are impplemented in child classes.
+
+<img width="587" height="438" alt="image" src="https://github.com/user-attachments/assets/e646cbe1-f863-4e54-b9e2-7fac7cb13d5b" />
