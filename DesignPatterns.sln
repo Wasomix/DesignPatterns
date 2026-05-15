@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.5.11619.145 insiders
+VisualStudioVersion = 18.5.11619.145
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePattern\StatePattern.csproj", "{616D9EF8-CCF6-402A-BA00-96CDDFB154C7}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{58CC090D-7D76-40B5-9952-E76F02D8AD17}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{3792C6EC-C9C5-4FA3-810F-AA05EBCE57FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{A6FB3212-806F-4B44-B0B1-93E118F5D9F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3792C6EC-C9C5-4FA3-810F-AA05EBCE57FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3792C6EC-C9C5-4FA3-810F-AA05EBCE57FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3792C6EC-C9C5-4FA3-810F-AA05EBCE57FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FB3212-806F-4B44-B0B1-93E118F5D9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FB3212-806F-4B44-B0B1-93E118F5D9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FB3212-806F-4B44-B0B1-93E118F5D9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FB3212-806F-4B44-B0B1-93E118F5D9F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
