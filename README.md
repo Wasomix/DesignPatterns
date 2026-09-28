@@ -22,8 +22,8 @@ It is a mechanism to access all elements sequentially in an aggregate. An aggreg
 # 4. Decorator Pattern
 Decorator pattern is a design pattern that adds behavior to an object dynamically. It is composed of:
 <ul>
-<li>Component</li> --> It is going to define common interface for components and decorators.
-<li>ConcreteComponent</li> --> Implements component interface and define basic object behavior. We can have many different concrete components.
-<li>BaseDecorator</li> --> Implements component interface and contains a reference to component.
-<li>ConcreteDecorator</li> --> Inherits BaseDecorator and adds extra behavior. We can have many different concrete decorators.
+<li>Component --> It is going to define common interface for components and decorators.</li> 
+<li>ConcreteComponent --> Implements component interface and define basic object behavior. We can have many different concrete components.</li> 
+<li>BaseDecorator --> Implements component interface and contains a reference to component.</li> 
+<li>ConcreteDecorator --> Inherits BaseDecorator and adds extra behavior. We can have many different concrete decorators.</li> 
 </ul>
