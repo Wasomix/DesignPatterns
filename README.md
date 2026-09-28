@@ -27,3 +27,5 @@ Decorator pattern is a design pattern that adds behavior to an object dynamicall
 <li>BaseDecorator --> Implements component interface and contains a reference to component.</li> 
 <li>ConcreteDecorator --> Inherits BaseDecorator and adds extra behavior. We can have many different concrete decorators.</li> 
 </ul>
+<img width="780" height="582" alt="image" src="https://github.com/user-attachments/assets/1c580ae9-6e2f-4c5c-b560-944aa83b58e8" />
+
