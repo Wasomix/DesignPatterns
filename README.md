@@ -19,6 +19,7 @@ It is a mechanism to access all elements sequentially in an aggregate. An aggreg
 <img width="801" height="487" alt="image" src="https://github.com/user-attachments/assets/ec0e454c-f642-4003-850a-6916ea6c5ee5" />
 
 
+
 # 4. Decorator Pattern
 Decorator pattern is a design pattern that adds behavior to an object dynamically. It is composed of:
 <ul>
@@ -28,4 +29,11 @@ Decorator pattern is a design pattern that adds behavior to an object dynamicall
 <li>ConcreteDecorator --> Inherits BaseDecorator and adds extra behavior. We can have many different concrete decorators.</li> 
 </ul>
 <img width="780" height="582" alt="image" src="https://github.com/user-attachments/assets/1c580ae9-6e2f-4c5c-b560-944aa83b58e8" />
+
+
+
+# 4. Façade Pattern
+The Façade design pattern provides a unified interface for a set of interfaces in a subsystem hiding the complexities of the subsystem. The subsystem could a Framework, a library, a set of classes ...
+<img width="592" height="292" alt="image" src="https://github.com/user-attachments/assets/51d11b22-e7eb-4233-a400-26fb383d4d47" />
+
 
