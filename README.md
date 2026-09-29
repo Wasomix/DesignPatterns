@@ -32,7 +32,7 @@ Decorator pattern is a design pattern that adds behavior to an object dynamicall
 
 
 
-# 4. Façade Pattern
+# 5. Façade Pattern
 The Façade design pattern provides a unified interface for a set of interfaces in a subsystem hiding the complexities of the subsystem. The subsystem could a Framework, a library, a set of classes ...
 <img width="592" height="292" alt="image" src="https://github.com/user-attachments/assets/51d11b22-e7eb-4233-a400-26fb383d4d47" />
 
