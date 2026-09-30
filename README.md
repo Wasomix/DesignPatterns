@@ -39,7 +39,8 @@ The Façade design pattern provides a unified interface for a set of interfaces 
 
 
 # 6. Proxy Pattern
-In proxy design pattern there is an object (proxy) that acts as intermediary with the real object. In the proxy object we can add extra functionality (control access, logging, caching ...) before or after the every call to the real object.
+In proxy design pattern there is an object (proxy) that acts as intermediary with the real object. In the proxy object we can add extra functionality (control access, logging, caching ...) before or after every call to the real object.
+<img width="657" height="385" alt="image" src="https://github.com/user-attachments/assets/f7cafc2b-42ad-4842-a7fb-1986db95c57d" />
 
 
 
