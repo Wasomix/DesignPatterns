@@ -47,7 +47,7 @@ In proxy design pattern there is an object (proxy) that acts as intermediary wit
 
 # 7. Chain of Responsability Pattern
 Chain of responsability pattern decouples the sender of the request from the receiver/s that can handle it. 
-It behaves like a linked list where each element has a reference to the next element in the list. So, the element that can process the request, will process it. 
+It behaves like a linked list where each element has a reference to the next element in the list. So, the element that can process the request, will process it. We can also see the chain of responsability pattern as a pipeline.
 This pattern can also be implemented using events.
 
 <img width="686" height="297" alt="image" src="https://github.com/user-attachments/assets/f25cc83e-0197-40f1-a9a6-5d86905729a2" />
