@@ -16,7 +16,7 @@ Template method provides an skeleton to implement an algorithm with a method (te
 # 3. Iterator Pattern
 It is a mechanism to access all elements sequentially in an aggregate. An aggregate is an object that contains other objects. For example a list of objects.
 
-<img width="776" height="487" alt="image" src="https://github.com/user-attachments/assets/7c70a211-f1e2-4bc1-b27a-53f0f625738c" />
+<img width="801" height="487" alt="image" src="https://github.com/user-attachments/assets/ec0e454c-f642-4003-850a-6916ea6c5ee5" />
 
 
 
