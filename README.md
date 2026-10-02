@@ -50,6 +50,8 @@ Chain of responsability pattern decouples the sender of the request from the rec
 It behaves like a linked list where each element has a reference to the next element in the list. So, the element that can process the request, will process it. 
 This pattern can also be implemented using events.
 
+<img width="686" height="297" alt="image" src="https://github.com/user-attachments/assets/f25cc83e-0197-40f1-a9a6-5d86905729a2" />
+
 
 
 
