@@ -54,4 +54,17 @@ This pattern can also be implemented using events.
 
 
 
+# 8. Command Pattern
+The command pattern is a behavioral pattern that allows you to encapsulate a request as an object. In this way you can parametrize clients with different requests, queue or log requests, and allow undoable operations.
+The participants in this pattern are:
+<ul>
+<li>Command --> Defines an interface for executing an operation.</li> 
+<li>ConcreteCommand --> Defines a binding betweem a receiver object and an action. Implements Execute by invoking the corresponding operation(s) on Receiver.</li> 
+<li>Client --> Creates a concrete command object and sets its receiver.</li> 
+<li>Invoker --> Asks the command to carry out the request.</li> 
+<li>Receiver --> Knows how to perform operations associated to request.</li> 
+</ul>
+
+<img width="922" height="561" alt="imagen" src="https://github.com/user-attachments/assets/424224b1-af7c-4727-b433-93018f03f3d0" />
+
 
