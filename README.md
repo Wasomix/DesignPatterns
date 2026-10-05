@@ -68,3 +68,7 @@ The participants in this pattern are:
 <img width="922" height="561" alt="imagen" src="https://github.com/user-attachments/assets/424224b1-af7c-4727-b433-93018f03f3d0" />
 
 
+
+# 9. Mediator Pattern
+Facilitates communication between components, where every component is unaware of the other one. 
+
