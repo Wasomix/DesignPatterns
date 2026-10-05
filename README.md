@@ -72,3 +72,6 @@ The participants in this pattern are:
 # 9. Mediator Pattern
 Facilitates communication between components, where every component is unaware of the other one. 
 
+<img width="1140" height="425" alt="imagen" src="https://github.com/user-attachments/assets/c10d45ce-7729-4eb6-83f3-4966417e4cae" />
+
+
