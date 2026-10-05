@@ -3,11 +3,11 @@ namespace CommandPattern.Command
 {
     internal class ConcreteCommand : ICommand
     {
-        private readonly Receiver.Receiver _receiver;
+        private readonly Receiver.IReceiver _receiver;
 
         public bool Success { get; set; }
 
-        public ConcreteCommand(Receiver.Receiver receiver)
+        public ConcreteCommand(Receiver.IReceiver receiver)
         {
             _receiver = receiver;
         }              

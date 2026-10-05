@@ -1,6 +1,6 @@
 ﻿namespace CommandPattern.Receiver
 {
-    public class Receiver
+    public class Receiver : IReceiver
     {
         public void Action()
         {

@@ -23,7 +23,7 @@ static class Program
 
     private static void RunExample()
     {
-        var receiver = new Receiver.Receiver();
+        Receiver.IReceiver receiver = new Receiver.Receiver();
         ICommand commandOne = new ConcreteCommand(receiver);
         var invoker = new Invoker.Invoker();
         invoker.SetCommand(commandOne);
